@@ -13,5 +13,5 @@ The repo can be found here: https://github.com/drewkhoury/all-in-on-good-softwar
 
 ## Who's all in on Good Software Delivery? (newest members at the top of the list)
 
-Bri Urbina - adopter, cheerleader, advocate
+[Bri Urbina](www.linkedin.com/in/brianna-urbina-9711b312a/) - adopter, cheerleader, advocate
 [Andrew Khoury](https://www.drewkhoury.com/drew/) - Founding member of GSD, advocate.
