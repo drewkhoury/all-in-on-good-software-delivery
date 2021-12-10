@@ -16,3 +16,4 @@ Who can join this list? Anyone that's contributed to GSD, been part of a GSD imp
 - [Bri Urbina](https://www.linkedin.com/in/brianna-urbina-9711b312a/) - adopter, cheerleader, advocate
 - [Andrew Ochsner](https://www.andyochsner.com) - Early GSD adopter, advocate
 - [Andrew Khoury](https://www.drewkhoury.com/drew/) - Founding member of GSD, advocate
+- [Paul Kordes](https://paul-kordes.medium.com/) - Early GSD adopter, advocate
