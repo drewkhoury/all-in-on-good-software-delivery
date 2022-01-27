@@ -26,3 +26,4 @@ This is a list of everyone that's publically "all in on Good Software Delivery" 
 - [Bri Urbina](https://www.linkedin.com/in/brianna-urbina-9711b312a/) - adopter, cheerleader, advocate
 - [Andrew Ochsner](https://www.andyochsner.com) - Early GSD adopter, advocate
 - [Andrew Khoury](https://www.drewkhoury.com/drew/) - Founding member of GSD, advocate
+- [Jason Lutz](https://www.linkedin.com/in/jason-lutz-mpa-36234ba9/) - GSD lurker
