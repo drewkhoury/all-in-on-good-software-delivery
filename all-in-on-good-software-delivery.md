@@ -13,6 +13,7 @@ Who can join this list? Anyone that's contributed to GSD, been part of a GSD imp
 
 This is a list of everyone that's publically "all in on Good Software Delivery" - newest members are at the top of the list.
 
+- [Jason Lutz](https://www.linkedin.com/in/jason-lutz-mpa-36234ba9/) - GSD lurker
 - [Craig Kilpatrick](https://www.linkedin.com/in/craig-kilpatrick-84419b87/) - Early GSD adopter, advocate
 - [Joe Bailey](https://www.linkedin.com/in/joelbaileyjr/) - GSD thinker, advocate
 - [Chris Hart](https://www.linkedin.com/in/q6yljvdabz/) - Early GSD adopter, practitioner, advocate
@@ -26,4 +27,3 @@ This is a list of everyone that's publically "all in on Good Software Delivery" 
 - [Bri Urbina](https://www.linkedin.com/in/brianna-urbina-9711b312a/) - adopter, cheerleader, advocate
 - [Andrew Ochsner](https://www.andyochsner.com) - Early GSD adopter, advocate
 - [Andrew Khoury](https://www.drewkhoury.com/drew/) - Founding member of GSD, advocate
-- [Jason Lutz](https://www.linkedin.com/in/jason-lutz-mpa-36234ba9/) - GSD lurker
